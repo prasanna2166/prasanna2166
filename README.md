@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasanna2166
+- 👋 Hi, I’m Prasanna
 - 👀 I’m interested in NodeJS development
 - 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me ...
